@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/v-chart-plugin": "^0.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.7.3",
     "material-icons": "^0.2.3",
     "v-chart-plugin": "^1.0.0",
