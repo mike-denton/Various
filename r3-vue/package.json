@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/v-chart-plugin": "^0.2.0",
     "axios": "^0.18.0",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "material-icons": "^0.2.3",
     "v-chart-plugin": "^1.0.0",
     "vue": "^2.5.17",
