@@ -28,7 +28,7 @@
     "@mdi/font": "^3.2.89",
     "@vue/cli-plugin-babel": "^3.2.0",
     "@vue/cli-plugin-typescript": "^3.2.0",
-    "@vue/cli-service": "^3.2.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-runtime": "^6.26.0",
     "echarts": "^4.2.0-rc.2",
     "material-design-icons-iconfont": "^4.0.3",
